@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael F. Barbaro | Rinu Sebastian</title>
+    <link>https://rsebasti.github.io/authors/michael-f.-barbaro/</link>
+      <atom:link href="https://rsebasti.github.io/authors/michael-f.-barbaro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael F. Barbaro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright>
+    <image>
+      <url>https://rsebasti.github.io/img/icon-192.png</url>
+      <title>Michael F. Barbaro</title>
+      <link>https://rsebasti.github.io/authors/michael-f.-barbaro/</link>
+    </image>
+    
+    <item>
+      <title>Beta-Band Modulation in the Human Hippocampus during a Conflict Response Task</title>
+      <link>https://rsebasti.github.io/publication/hippostroop1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rsebasti.github.io/publication/hippostroop1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beta-Band Power Modulation in the Human Hippocampus during a Reaching Task</title>
+      <link>https://rsebasti.github.io/publication/hipporeach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rsebasti.github.io/publication/hipporeach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
