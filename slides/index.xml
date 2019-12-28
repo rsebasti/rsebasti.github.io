@@ -1,64 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rinu Sebastian</title>
-    <link>https://rsebasti.github.io/</link>
-      <atom:link href="https://rsebasti.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rinu Sebastian</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 28 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://rsebasti.github.io/img/icon-192.png</url>
-      <title>Rinu Sebastian</title>
-      <link>https://rsebasti.github.io/</link>
-    </image>
-    
-    <item>
-      <title>Sit-to-Stand-to-Step modeling</title>
-      <link>https://rsebasti.github.io/project/s2s2s-project/</link>
-      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsebasti.github.io/project/s2s2s-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Text extraction from videos</title>
-      <link>https://rsebasti.github.io/project/video-extraction/</link>
-      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsebasti.github.io/project/video-extraction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural decoding for decision making</title>
-      <link>https://rsebasti.github.io/project/neural-decoding/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsebasti.github.io/project/neural-decoding/</guid>
-      <description>&lt;p&gt;The stochastic nature of neurological process carries information to the underlying
-behavior. This study is an attempt to link one of the behavioral patterns to the neural
-spikes. By employing the concepts of decision theory to Homogenous Point process
-model, it hopes to uncover decoding of decision making.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Object removal and infilling</title>
-      <link>https://rsebasti.github.io/project/object-infilling/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://rsebasti.github.io/project/object-infilling/</guid>
-      <description>&lt;p&gt;Image reconstruction is one of the most fundamental
-inverse problems. With exemplar based impainting methods,
-recent studies have proved that image reconstruction from
-damaged samples is highly efficient without lose of continuity
-and texture based abnormalities. This study is a first step to
-work with exemplar based impainting methods for removing
-an undesired object from background by pixel priority
-determination and replacing the pitch window with the best
-possible patch from undamaged image. Pixel window with
-least sum of square of differnce value is used to update the
-undesirable patch&lt;/p&gt;
-</description>
-    </item>
-    
+    <title>Slides | Rinu Sebastian</title>
+    <link>https://rsebasti.github.io/slides/</link>
+      <atom:link href="https://rsebasti.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Slides</title>
       <link>https://rsebasti.github.io/slides/example/</link>
@@ -238,22 +185,6 @@ $$&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Beta-Band Modulation in the Human Hippocampus during a Conflict Response Task</title>
-      <link>https://rsebasti.github.io/publication/hippostroop1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rsebasti.github.io/publication/hippostroop1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beta-Band Power Modulation in the Human Hippocampus during a Reaching Task</title>
-      <link>https://rsebasti.github.io/publication/hipporeach/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rsebasti.github.io/publication/hipporeach/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -5,7 +5,7 @@
     <link>https://rsebasti.github.io/project/</link>
       <atom:link href="https://rsebasti.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 28 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rsebasti.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Neural decoding for decision making</title>
-      <link>https://rsebasti.github.io/project/neural-decoding/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://rsebasti.github.io/project/neural-decoding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sit-to-Stand-to-Step modeling</title>
       <link>https://rsebasti.github.io/project/s2s2s-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://rsebasti.github.io/project/s2s2s-project/</guid>
       <description></description>
     </item>
@@ -31,25 +23,40 @@
     <item>
       <title>Text extraction from videos</title>
       <link>https://rsebasti.github.io/project/video-extraction/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://rsebasti.github.io/project/video-extraction/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Video streaming with live human detection</title>
-      <link>https://rsebasti.github.io/project/video_robot/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://rsebasti.github.io/project/video_robot/</guid>
-      <description></description>
+      <title>Neural decoding for decision making</title>
+      <link>https://rsebasti.github.io/project/neural-decoding/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://rsebasti.github.io/project/neural-decoding/</guid>
+      <description>&lt;p&gt;The stochastic nature of neurological process carries information to the underlying
+behavior. This study is an attempt to link one of the behavioral patterns to the neural
+spikes. By employing the concepts of decision theory to Homogenous Point process
+model, it hopes to uncover decoding of decision making.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Object removal and infilling</title>
       <link>https://rsebasti.github.io/project/object-infilling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://rsebasti.github.io/project/object-infilling/</guid>
-      <description></description>
+      <description>&lt;p&gt;Image reconstruction is one of the most fundamental
+inverse problems. With exemplar based impainting methods,
+recent studies have proved that image reconstruction from
+damaged samples is highly efficient without lose of continuity
+and texture based abnormalities. This study is a first step to
+work with exemplar based impainting methods for removing
+an undesired object from background by pixel priority
+determination and replacing the pitch window with the best
+possible patch from undamaged image. Pixel window with
+least sum of square of differnce value is used to update the
+undesirable patch&lt;/p&gt;
+</description>
     </item>
     
   </channel>

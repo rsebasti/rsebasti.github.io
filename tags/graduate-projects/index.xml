@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graduate Projects | Rinu Sebastian</title>
+    <link>https://rsebasti.github.io/tags/graduate-projects/</link>
+      <atom:link href="https://rsebasti.github.io/tags/graduate-projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graduate Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 28 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rsebasti.github.io/img/icon-192.png</url>
+      <title>Graduate Projects</title>
+      <link>https://rsebasti.github.io/tags/graduate-projects/</link>
+    </image>
+    
+    <item>
+      <title>Sit-to-Stand-to-Step modeling</title>
+      <link>https://rsebasti.github.io/project/s2s2s-project/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://rsebasti.github.io/project/s2s2s-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural decoding for decision making</title>
+      <link>https://rsebasti.github.io/project/neural-decoding/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://rsebasti.github.io/project/neural-decoding/</guid>
+      <description>&lt;p&gt;The stochastic nature of neurological process carries information to the underlying
+behavior. This study is an attempt to link one of the behavioral patterns to the neural
+spikes. By employing the concepts of decision theory to Homogenous Point process
+model, it hopes to uncover decoding of decision making.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Object removal and infilling</title>
+      <link>https://rsebasti.github.io/project/object-infilling/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://rsebasti.github.io/project/object-infilling/</guid>
+      <description>&lt;p&gt;Image reconstruction is one of the most fundamental
+inverse problems. With exemplar based impainting methods,
+recent studies have proved that image reconstruction from
+damaged samples is highly efficient without lose of continuity
+and texture based abnormalities. This study is a first step to
+work with exemplar based impainting methods for removing
+an undesired object from background by pixel priority
+determination and replacing the pitch window with the best
+possible patch from undamaged image. Pixel window with
+least sum of square of differnce value is used to update the
+undesirable patch&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

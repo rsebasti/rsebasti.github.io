@@ -3,43 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rsebasti.github.io/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rsebasti.github.io/project/neural-decoding/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://rsebasti.github.io/tags/graduate-projects/</loc>
+    <lastmod>2019-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rsebasti.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rsebasti.github.io/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rsebasti.github.io/project/s2s2s-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rsebasti.github.io/tags/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://rsebasti.github.io/project/video-extraction/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rsebasti.github.io/project/video_robot/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://rsebasti.github.io/tags/undergraduate-projects/</loc>
+    <lastmod>2019-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rsebasti.github.io/project/neural-decoding/</loc>
+    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rsebasti.github.io/project/object-infilling/</loc>
+    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rsebasti.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rsebasti.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -92,10 +107,6 @@
   
   <url>
     <loc>https://rsebasti.github.io/authors/morgan-b.-lee/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rsebasti.github.io/project/object-infilling/</loc>
   </url>
   
   <url>
