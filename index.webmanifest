@@ -2,8 +2,8 @@
   "name": "Rinu Sebastian",
   "short_name": "Rinu Sebastian",
   "lang": "en-us",
-  "theme_color": "#4caf50",
-  "background_color": "#4caf50",
+  "theme_color": "#795548",
+  "background_color": "#795548",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",

@@ -5,7 +5,7 @@
     <link>https://rsebasti.github.io/authors/brian-lee./</link>
       <atom:link href="https://rsebasti.github.io/authors/brian-lee./index.xml" rel="self" type="application/rss+xml" />
     <description>Brian Lee.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright>
     <image>
       <url>https://rsebasti.github.io/img/icon-192.png</url>
       <title>Brian Lee.</title>
@@ -17,6 +17,14 @@
       <link>https://rsebasti.github.io/publication/hippostroop1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rsebasti.github.io/publication/hippostroop1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beta-Band Power Modulation in the Human Hippocampus during a Reaching Task</title>
+      <link>https://rsebasti.github.io/publication/amygdalareach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rsebasti.github.io/publication/amygdalareach/</guid>
       <description></description>
     </item>
     
